@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: chatbot
+Version: 0.0.1
+Author: Chirantan Jana
+Author-email: chirantanjana43@gmail.com
+Requires-Dist: flask
+Requires-Dist: langchain
+Requires-Dist: langchain-pinecone
+Requires-Dist: langchain-experimental
+Requires-Dist: langchain-community
+Requires-Dist: pinecone-client
+Requires-Dist: python-dotenv
+Requires-Dist: pypdf
+Requires-Dist: sentence-transformers
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist

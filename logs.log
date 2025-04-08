@@ -1,0 +1,25 @@
+2025-04-08 12:50:57,686 [INFO] Creating directory: src for the file __init__.py
+2025-04-08 12:50:57,686 [INFO] Creating empty file: src/__init__.py
+2025-04-08 12:50:57,686 [INFO] Creating directory: src for the file helper.py
+2025-04-08 12:50:57,686 [INFO] Creating empty file: src/helper.py
+2025-04-08 12:50:57,686 [INFO] Creating directory: src for the file prompt.py
+2025-04-08 12:50:57,687 [INFO] Creating empty file: src/prompt.py
+2025-04-08 12:50:57,687 [INFO] Creating empty file: .env
+2025-04-08 12:50:57,687 [INFO] requirements.txt already exists
+2025-04-08 12:50:57,687 [INFO] Creating empty file: setup.py
+2025-04-08 12:50:57,687 [INFO] Creating empty file: app.py
+2025-04-08 12:50:57,687 [INFO] Creating directory: research for the file trial.ipynb
+2025-04-08 12:50:57,687 [INFO] Creating empty file: research/trial.ipynb
+2025-04-08 12:51:43,438 [INFO] Creating directory: src for the file __init__.py
+2025-04-08 12:51:43,439 [INFO] Creating empty file: src/__init__.py
+2025-04-08 12:51:43,439 [INFO] Creating directory: src for the file helper.py
+2025-04-08 12:51:43,439 [INFO] Creating empty file: src/helper.py
+2025-04-08 12:51:43,439 [INFO] Creating directory: src for the file prompt.py
+2025-04-08 12:51:43,439 [INFO] Creating empty file: src/prompt.py
+2025-04-08 12:51:43,439 [INFO] Creating empty file: .env
+2025-04-08 12:51:43,439 [INFO] requirements.txt already exists
+2025-04-08 12:51:43,439 [INFO] Creating empty file: setup.py
+2025-04-08 12:51:43,439 [INFO] Creating empty file: app.py
+2025-04-08 12:51:43,439 [INFO] Creating directory: research for the file trial.ipynb
+2025-04-08 12:51:43,439 [INFO] Creating empty file: research/trial.ipynb
+2025-04-08 12:51:43,440 [INFO] Creating empty file: test.py

@@ -1,0 +1,9 @@
+flask
+langchain
+langchain-pinecone
+langchain-experimental
+langchain-community
+pinecone-client
+python-dotenv
+pypdf
+sentence-transformers
